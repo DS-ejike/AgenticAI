@@ -1,0 +1,2 @@
+deepagents
+python-dotenv
